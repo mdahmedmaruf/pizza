@@ -19,7 +19,7 @@ export function PizzaCard({ data, setOrdered }) {
           variant="success"
           block
         >
-          Order Pizza <span>🍕</span>
+          Order Pizza
         </Button>
       </Card.Body>
     </Card>
